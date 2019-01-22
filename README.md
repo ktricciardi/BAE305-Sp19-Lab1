@@ -26,10 +26,11 @@ We first tested four resistors to determine their resistance values. We determin
 Once we determined that the DCPS output voltage meter readings matched those of our DMMs, we tested the output amplitude and frequency of the Function Generator (FG). We connected a proto board to the FG and to an oscilloscope before setting the FG to produce a sine wave maximum amplitude of 2kHz. Using five different methods, we determined the amplitude and frequency of the sine wave. The five diffferent methods we used were 1) "counting squares" on the oscilloscope screen grid, 2) using the moveable cursors on the oscilloscope, 3) u7sing the "measure" feature on the oscilloscope, 4) using the generic DMM, and 5) using the Fluke DMM. 
 
 # Test Results
-What are your resul
 ![](https://github.com/ktricciardi/BAE305-Sp19-Lab1/blob/master/Screen%20Shot%202019-01-22%20at%202.35.03%20PM.png)
 
 # Discussion
 Q1: Do the instruments agree with each other and with the expected value?
+
 Q2: Do the instruments agree with each other?
+
 Q3: Do the instruments agree?
