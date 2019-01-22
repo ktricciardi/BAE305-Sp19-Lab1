@@ -19,5 +19,6 @@ List multimeters and other equipment used for testing and creating results.
 We first tested four resistors to determine their resistance values using both the Fluke and Generic DMMS. After 
 # Test Results
 What are your results?
+![](https://github.com/ktricciardi/BAE305-Sp19-Lab1/blob/master/Screen%20Shot%202019-01-22%20at%202.35.03%20PM.png)
 # Discussion
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
