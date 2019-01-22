@@ -30,6 +30,7 @@ Once we determined that the DCPS output voltage meter readings matched those of 
 
 # Discussion
 Q1: Do the instruments agree with each other and with the expected value?
+This question refers to the difference between our measured and expected resistance and capacitance of our four resitors and four capacitors. For the four resistors, the measured resistance is within the tolerance parameters of the expected resistance value. 
 
 Q2: Do the instruments agree with each other?
 
