@@ -30,6 +30,6 @@ How did you test the system to get your results
 
 What are your results?
 
-#Discussion
+# Discussion
 
 Did you make any design decisions that had an impact on the results? How did they impact the results? What do the results mean?
