@@ -2,7 +2,8 @@
 
 # By: Katie Ricciardi and Whitney Phelps
 # Summary
-This lab was designed to get us familiar with the main electronic equipment, such as a digital multimeter, an oscilloscope, a function generator, and a direct current power supply. Using different materials, like resistors and capacitors, we tested the uses of these pieces of equipment and tested their accuracy. We also tested different output voltages on the DC power supply and the function generator using the fluke and generic multimeter. We found the Fluke multimeter to be more accurate than the generic one. 
+This lab was designed to get us familiar with the main electronic equipment, such as a digital multimeter, an oscilloscope, a function generator, and a direct current power supply. Using different materials, like resistors and capacitors, we tested the uses of these pieces of equipment and tested their accuracy. We also tested different output voltages on the DC power supply and the function generator using the fluke and generic multimeter. We found the Fluke multimeter to be more accurate than the generic one. We also became familiar with GitHub by completeling the "Hello World" tutorial and creating our first repository.
+
 # Materials
 * 1.2 kΩ resistor
 * 4700 kΩ resistor
